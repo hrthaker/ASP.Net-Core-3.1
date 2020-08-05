@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/hrt.BookStore/.vs/hrt.BookStore
+/hrt.BookStore/hrt.BookStore/bin/Debug/netcoreapp3.1
+/hrt.BookStore/hrt.BookStore/obj
